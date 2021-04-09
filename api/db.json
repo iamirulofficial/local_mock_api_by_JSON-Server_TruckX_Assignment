@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "username": "test",
+      "password": "test@123"
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "name": "Tom",
+      "username": "tom123",
+      "email": "tom123@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Hary",
+      "username": "hry123",
+      "email": "hry123@test.com"
+    },
+    {
+      "name": "Adam",
+      "username": "adm123",
+      "email": "adm123@test.com",
+      "id": 5
+    },
+    {
+      "name": "Eve",
+      "username": "eve123",
+      "email": "eve123@test.com",
+      "id": 6
+    }
+  ]
+}
