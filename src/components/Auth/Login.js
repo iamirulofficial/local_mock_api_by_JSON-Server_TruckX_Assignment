@@ -1,4 +1,4 @@
-import NavBarMenu from './NavBarMenu';
+import NavBarMenu from '../NavBarMenu';
 import { useState } from 'react'
 
 const Login = (props) => {

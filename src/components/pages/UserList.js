@@ -1,7 +1,7 @@
 import React from 'react';
 import {Table} from 'react-bootstrap'
 import {Link} from 'react-router-dom'
-import NavBarMenu from './NavBarMenu';
+import NavBarMenu from '../NavBarMenu';
 import {useState, useEffect} from 'react'
 
 const UserList = () => {

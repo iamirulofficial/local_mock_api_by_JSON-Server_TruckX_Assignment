@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 
-import Home from './Home'
-import UserList from './UserList'
-import UserSearch from './UserSearch'
-import UserUpdate from './UserUpdate'
-import UserCreate from './UsertCreate'
-import Login from './Login'
-import Logout from './Logout';
-import Protected from './Protected'
+import Home from '../pages/Home'
+import UserList from '../pages/UserList'
+import UserSearch from '../pages/UserSearch'
+import UserUpdate from '../pages/UserUpdate'
+import UserCreate from '../pages/UsertCreate'
+import Login from '../Auth/Login'
+import Logout from '../Auth/Logout';
+import Protected from './ProtectedRouter'
 
 
 class Header extends Component {

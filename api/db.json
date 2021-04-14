@@ -7,10 +7,10 @@
   ],
   "users": [
     {
-      "id": 3,
       "name": "Tom",
-      "username": "tom123",
-      "email": "tom123@test.com"
+      "username": "tom12345",
+      "email": "tom123@test.com",
+      "id": 3
     },
     {
       "id": 4,
@@ -27,7 +27,7 @@
     {
       "name": "Eve",
       "username": "eve123",
-      "email": "eve123@test.com",
+      "email": "eve@test.com",
       "id": 6
     }
   ]

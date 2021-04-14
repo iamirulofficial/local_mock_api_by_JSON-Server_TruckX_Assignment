@@ -3,7 +3,7 @@ import { Table,Form } from 'react-bootstrap'
 import {
     Link
   } from 'react-router-dom'
-import NavBarMenu from './NavBarMenu'
+import NavBarMenu from '../NavBarMenu'
 
 class RestaurantSearch extends Component {
     constructor() {
